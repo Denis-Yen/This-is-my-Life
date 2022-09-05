@@ -3,10 +3,11 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hi, my name is Denis Rodríguez. Nice to meet you.
+  Hola, mi nombre es Denis Rodríguez. Encantado de conocerte.
 ---
 
 <!-- this is a subheadline -->
-I'm economista  you'll want to hang out with. :fr: 
+Soy economista apasionado por el mundo de los datos. :fr: 
 
-The page you are reading is based on a markdown file- look in `content/about/` to edit. There, look inside the `header`, `main`, and `sidebar` folders to get started building your own "about" page.
+La página que esta leyendo resume mi vida, así como mis aportes al stock de
+conocimiento en el fascinante mundo de los datos.
